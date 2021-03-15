@@ -1,0 +1,17 @@
+{
+  "name": "js",
+  "version": "1.0.0",
+  "description": "learning js",
+  "main": "index.js",
+  "dependencies": {
+    "underscore": "^1.12.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Pavlo Kyrnytskyi <kirnicki0907@gmail.com>",
+  "license": "ISC"
+}
